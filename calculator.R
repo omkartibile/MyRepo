@@ -10,7 +10,12 @@ ui=shinyUI(
         actionButton("btn","calculate")
       ),
       mainPanel(
-        textOutput("total")
+        textOutput("total")]
+
+A
+A
+A
+A
       )
     )
   )
